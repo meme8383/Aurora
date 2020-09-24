@@ -1217,6 +1217,12 @@
     <None Include="kb_layouts\Extra Features\razer_blackwidow_left_bottom_features.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="kb_layouts\Extra Features\razer_elite_features.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="kb_layouts\Extra Features\razer_elite_right_features.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="kb_layouts\Extra Features\roccat_ryos_features.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -1320,6 +1326,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="kb_layouts\razer_blackwidow.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="kb_layouts\razer_huntsman_elite.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="kb_layouts\roccat_ryos.json">
